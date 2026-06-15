@@ -153,10 +153,10 @@ Spam-Email-Classifier/
 # 📸 Sample Output
 
 ### Spam Detection
-[Insert screenshot here]
+[spam.png]
 
 ### Normal Message Detection
-[Insert screenshot here]
+[not spam.png]
 
 # 👩‍💻 Author
 
